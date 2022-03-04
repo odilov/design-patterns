@@ -1,7 +1,5 @@
 // the factory concept
 
-import { executionAsyncResource } from "async_hooks";
-
 interface IProduct {
   name: string;
 }
